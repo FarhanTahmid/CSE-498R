@@ -1,5 +1,6 @@
 windows_bullishield/
 linux_env/
 .venv/
+venv/
 __pycache__/
 Created Models/
